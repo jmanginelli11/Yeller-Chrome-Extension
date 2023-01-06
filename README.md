@@ -1,7 +1,7 @@
 # Yeller!
 
 <div align="center">
-  <img alt="Logo" src="public/mouth.png" width="800" />
+  <img alt="Logo" src="public/mouth.png" width="200" />
 </div>
 
 ## Yeller!
