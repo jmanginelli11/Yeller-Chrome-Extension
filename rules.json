@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "url": "https://www.youtube.com/watch?v=umF4uIHsVhM" }
+    },
+    "condition": {
+      "urlFilter": "facebook.com",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
