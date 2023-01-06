@@ -1,0 +1,27 @@
+body{
+  font-family: "Syne Mono", monospace;
+  margin: 1em;
+  background-color: #ffcccb
+}
+
+#main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1, p {
+  text-align: center;
+}
+
+#list-of-websites {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  align-items: left;
+}
+
+li {
+  text-align: left;
+}

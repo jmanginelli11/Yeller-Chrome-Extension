@@ -10,5 +10,29 @@
       "urlFilter": "facebook.com",
       "resourceTypes": ["main_frame"]
     }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "url": "https://www.youtube.com/watch?v=umF4uIHsVhM" }
+    },
+    "condition": {
+      "urlFilter": "instagram.com",
+      "resourceTypes": ["main_frame"]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": { "url": "https://www.youtube.com/watch?v=umF4uIHsVhM" }
+    },
+    "condition": {
+      "urlFilter": "youtube.com",
+      "resourceTypes": ["main_frame"]
+    }
   }
 ]
