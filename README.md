@@ -1,14 +1,12 @@
 # Yeller!
 
-<!-- <div align="center">
-  <img alt="Logo" src="public/Screen Shot 2022-12-15 at 7.36.07 PM.png" width="800" />
-</div> -->
+<div align="center">
+  <img alt="Logo" src="public/mouth.png" width="800" />
+</div>
 
-## Yeller! Deployed Download
+## Yeller!
 
 This repo powers Yeller!, a chrome extension that yells at you every time you get off task.
-
-Deployed link:
 
 ## Project setup
 
